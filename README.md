@@ -1,6 +1,6 @@
-# Práctica Profesionalizante
+﻿# Práctica Profesionalizante
 
-Trabajos de la materia Práctica Profesionalizante de la Tecnicatura en Análisis de Datos e Inteligencia Artificial, desarrollados en la entidad Punto Digital Villa Ojo de Agua.
+Trabajos de la materia Práctica Profesionalizante de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial, desarrollados en la entidad Punto Digital Villa Ojo de Agua.
 
 ## Notebooks
 
